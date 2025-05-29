@@ -19,7 +19,7 @@ app.get('/', (req, res) => {
     <html>
     <head>
       <meta charset="UTF-8">
-      <title>Vote for Your Favorite Programming Language</title>
+      <title>Vote for Your Favorite Programming Language/Languages</title>
       <style>
         body {
           display: flex;
